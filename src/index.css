@@ -11,14 +11,14 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  height: 100vh;
+  min-height: 100dvh;
 
   --bg-app: #000000;
   --bg-main-elements: #ffffff;
   --bg-main-hov-elements: #242424;
 
   --decoration-main-elements: #242424;
-  
+
   --text-primary-color: #242424;
   --text-secondary-color: #ffffff;
 }

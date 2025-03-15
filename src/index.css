@@ -11,8 +11,6 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  min-height: 100dvh;
-
   --bg-app: #000000;
   --bg-main-elements: #ffffff;
   --bg-main-hov-elements: #242424;

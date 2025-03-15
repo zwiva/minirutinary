@@ -49,6 +49,8 @@
   border-radius: 100%;
   border-bottom: 2px solid var(--text-primary-color);
   border-right: 2px solid var(--text-primary-color);
+  border-top: 2px solid var(--bg-main-elements);
+  border-left: 2px solid var(--bg-main-elements);
 }
 
 .button__main--mini:hover {
